@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/*"
-  to = "https://dev80434.service-now.com:splat"
+  to = "https://dev80434.service-now.com"
   status = 200
   force = true
   [redirects.headers]
